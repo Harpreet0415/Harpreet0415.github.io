@@ -4,7 +4,13 @@ A web-based productivity tool combining Pomodoro timer, to‑do list, quick note
 
 ## Demo (if deployed)
 
-[Live Demo] - https://vedantj77.github.io/ProductivityWebsite/
+[Live Demo] - https://harpreet0415.github.io
+\begin{itemize}
+    \item Developed a responsive web-based Productivity Tracker using HTML, CSS, and JavaScript, featuring a To-Do List, Pomodoro Timer, Notes, and Calendar modules.
+    \item Designed a clean and intuitive user interface with interactive components and hover effects to enhance usability and user engagement.
+\end{itemize}
+}
+
 
 ## features
 
@@ -36,5 +42,5 @@ A web-based productivity tool combining Pomodoro timer, to‑do list, quick note
 ---
 
 Let me know if you want help adding screenshots/GIFs, badges, or deploying it live!
-For feedback or suggestions, reach out at your- vedantjadhav575@gmail.com.
+For feedback or suggestions, reach out at your- harpreetdigwa15@gmail.com
 
