@@ -25,7 +25,7 @@ A web-based productivity tool combining Pomodoro timer, to‑do list, quick note
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/vedantj77/ProductivityWebsite.git
+   git clone https://github.com/Harpreet0415/ProductivityWebsite.git
    cd ProductivityWebsite
 
 2. Use the go live extention and go live through "index.html"
